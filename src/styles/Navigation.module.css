@@ -1,0 +1,17 @@
+.container {
+  gap: 30;
+  display: flex;
+  justify-content: center;
+
+  top: 20;
+  left: 0;
+  position: fixed;
+
+  width: 100%;
+  font-size: 20;
+}
+
+.container > div:hover {
+  cursor: pointer;
+  border-bottom: 1px solid white;
+}

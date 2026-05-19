@@ -1,0 +1,23 @@
+.container {
+  top: 0;
+  left: 0;
+  position: fixed;
+
+  width: 100vw;
+  height: 100vw;
+
+  z-index: -1;
+  filter: brightness(0.25);
+}
+
+.content {
+  top: 0;
+  left: 0;
+  position: fixed;
+
+  width: 100vw;
+  height: 100vh;
+
+  z-index: -1;
+  object-fit: cover;
+}

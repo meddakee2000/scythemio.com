@@ -1,0 +1,97 @@
+:root {
+  --glitch-color: #fff;
+  --glitch-effect-color1: #cccccc;
+  --glitch-effect-color2: #818181;
+  --glitch-duration: 0.3s;
+  --glitch-intensity: 10;
+  --glitch-offset: 4px;
+  --glitch-text-shake: 2px;
+  --glitch-blur: 0.3px;
+  --glitch-opacity: 0.66;
+}
+
+.Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: safe center;
+  text-align: center;
+
+  border-radius: 15px;
+  border: px dashed rgba(255, 255, 255, 0.4)
+}
+
+.Text {
+  position: relative;
+  z-index: 1;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 7px;
+  color: var(--glitch-color);
+  animation: text-shake var(--glitch-duration) cubic-bezier(0.25, 0.46, 0.45, 0.94) both infinite;
+}
+
+.Text::before,
+.Text::after {
+  content: attr(data-glitch);
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  opacity: var(--glitch-opacity);
+}
+
+.Text::before {
+  z-index: -1;
+  color: var(--glitch-effect-color1);
+  filter: blur(var(--glitch-blur));
+  animation: glitch-classic var(--glitch-duration) cubic-bezier(0.25, 0.46, 0.45, 0.94) both infinite;
+}
+
+.Text::after {
+  z-index: -2;
+  color: var(--glitch-effect-color2);
+  filter: blur(var(--glitch-blur));
+  animation: glitch-classic var(--glitch-duration) cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both infinite;
+}
+
+@keyframes glitch-classic {
+  0% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(calc(-1 * var(--glitch-offset)), var(--glitch-offset));
+  }
+  40% {
+    transform: translate(calc(-1 * var(--glitch-offset)), calc(-1 * var(--glitch-offset)));
+  }
+  60% {
+    transform: translate(var(--glitch-offset), var(--glitch-offset));
+  }
+  80% {
+    transform: translate(var(--glitch-offset), calc(-1 * var(--glitch-offset)));
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+@keyframes text-shake {
+  0% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(calc(var(--glitch-text-shake) * 0.5), calc(-1 * var(--glitch-text-shake)));
+  }
+  40% {
+    transform: translate(calc(-1 * var(--glitch-text-shake)), calc(var(--glitch-text-shake) * 0.3));
+  }
+  60% {
+    transform: translate(calc(-0.5 * var(--glitch-text-shake)), calc(-0.7 * var(--glitch-text-shake)));
+  }
+  80% {
+    transform: translate(var(--glitch-text-shake), calc(var(--glitch-text-shake) * 0.5));
+  }
+  100% {
+    transform: translate(0);
+  }
+}
