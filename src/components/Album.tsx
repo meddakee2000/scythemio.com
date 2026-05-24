@@ -1,4 +1,5 @@
 "use client";
+
 import styles from '@/styles/Album.module.css';
 
 import platformHandoff from "@/logic/platformHandoff";

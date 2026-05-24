@@ -23,7 +23,9 @@ const Page = () => {
 
             <span style = {{fontSize: 20, paddingTop: 5}}>
 
-              bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh 
+              Scythe Mio is an emerging independent music artist known for blending emotional melodies with modern underground hip-hop and alternative sounds. Their music features atmospheric production, introspective lyrics, and collaborations with artists like 7EVEN and Pierce Santana.
+              <br/><br/>
+              Scythe Mio has built a growing online presence through streaming platforms, releasing tracks such as “CHRISTIAN DIOR,” “out of my mind,” and “I DON’T LOSE.” Their moody, melodic style appeals to fans of underground internet rap and experimental trap music.
 
             </span>
 
