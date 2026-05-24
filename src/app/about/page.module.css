@@ -1,0 +1,26 @@
+.container {
+  width: 1000;
+  display: flex;
+}
+
+.img {
+  width: 400;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  padding: 25px;
+  border-radius: 10px;
+  margin-left: 20px;
+  background-color: rgb(0, 0, 0, .40);
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+}

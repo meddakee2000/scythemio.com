@@ -1,5 +1,12 @@
 function redirectToPage(url: string) {
-  location.href = `/${url}`
+
+  console.log
+  if (location.pathname == `/${url}`) {
+    return;
+  } else {
+    location.pathname = `/${url}`
+  }
+
 }
 
 export default redirectToPage;

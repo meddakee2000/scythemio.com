@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  height: 150;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 10px;
+  background-color: rgb(0, 0, 0, .40);
+}
+
+.title {
+  padding: 15;
+  font-size: 20;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(0, 0, 0, .40);
+}

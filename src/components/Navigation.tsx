@@ -1,5 +1,6 @@
 'use client';
 
+import openToURL from '@/logic/openToURL';
 import redirectToPage from '@/logic/redirectToPage';
 import styles from '../styles/Navigation.module.css';
 
@@ -24,6 +25,10 @@ const Navigation = () => {
 
       <div onClick = {() => {redirectToPage('about')}}>
         ABOUT
+      </div>
+
+      <div onClick = {() => {openToURL('https://ffm.bio/scythemio')}}>
+        LINKS
       </div>
 
       {'<'}
