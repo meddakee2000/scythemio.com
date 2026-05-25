@@ -11,7 +11,7 @@ const Page = () => {
 
       <div className = {styles.container}>
 
-        <img className = {styles.img} src = '/Picture.jpeg'/>
+        <img className = {styles.img} src = '/assets/Picture.jpeg'/>
 
         <div className = {styles.textContainer}>
 

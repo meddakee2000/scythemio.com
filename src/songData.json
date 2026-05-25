@@ -1,0 +1,97 @@
+{
+
+  "songs": [
+    {
+
+      "5am": {
+        "name": "It's 5am and I can't sleep",
+        "date": "June 27th, 2025",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "babygottaask": {
+        "name": "BABY GOTTA ASK",
+        "date": "March 13th, 2026",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "coma": {
+        "name": "coma",
+        "date": "August 15th, 2025",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "distractions": {
+        "name": "distractions",
+        "date": "March 28th, 2025",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "dreaming": {
+        "name": "DREAMING",
+        "date": "Janurary 11th, 2026",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "iwishiknew": {
+        "name": "i wish i knew",
+        "date": "April 10th, 2026",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "loud": {
+        "name": "icantstopsmokingloud",
+        "date": "April 24th, 2026",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "outofmymind": {
+        "name": "out of my mind",
+        "date": "September 26th, 2026",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "rise": {
+        "name": "RISE",
+        "date": "Janurary 24th, 2025",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "throwaways": {
+        "name": "THROWAWAYS",
+        "date": "Janurary 24th, 2025",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      },
+
+      "whatyouneed": {
+        "name": "WHAT YOU NEED",
+        "date": "November 19th, 2025",
+        "spotifyURL": "",
+        "applemusicURL": "",
+        "soundcloudURL": ""
+      }
+
+    }
+  ]
+
+}

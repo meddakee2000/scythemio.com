@@ -4,6 +4,7 @@ import Footer from '@/components/Footer';
 import DemoReel from '@/components/DemoRoll';
 import { Roboto_Mono } from 'next/font/google';
 import Navigation from '@/components/Navigation';
+import MusicPlayer from '@/components/MusicPlayer';
 
 interface LayoutProps { 
   children: React.ReactNode
@@ -30,6 +31,7 @@ const RootLayout = ({children}: LayoutProps) => {
         <Footer/>
         <DemoReel/>
         <Navigation/>
+        <MusicPlayer src = {'/assets/Audio.mp3'}/>
 
       </body>
     </html>

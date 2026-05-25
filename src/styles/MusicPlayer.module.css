@@ -1,0 +1,15 @@
+.toggle {
+  top: 15;
+  right: 15;
+  position: fixed;
+
+  width: 50;
+  opacity: 50%;
+  transition: all ease-in-out 0.1s;
+}
+
+.toggle:hover {
+  opacity: 100%;
+  cursor: pointer;
+  transition: all ease-in-out 0.1s;
+}

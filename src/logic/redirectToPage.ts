@@ -1,12 +1,13 @@
-function redirectToPage(url: string) {
+import { AppRouterInstance } from 'next/dist/shared/lib/app-router-context.shared-runtime';
 
-  console.log
-  if (location.pathname == `/${url}`) {
+function redirectToPage(url: string, router: AppRouterInstance) {
+  if (!router) return;
+  
+  if (window.location.pathname === `/${url}`) {
     return;
   } else {
-    location.pathname = `/${url}`
+    router.push(`/${url}`);
   }
-
 }
 
 export default redirectToPage;
