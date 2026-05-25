@@ -23,9 +23,9 @@ const Page = () => {
 
             <span style = {{fontSize: 20, paddingTop: 5}}>
 
-              Scythe Mio is an emerging independent music artist known for blending emotional melodies with modern underground hip-hop and alternative sounds. Their music features atmospheric production, introspective lyrics, and collaborations with artists like 7EVEN and Pierce Santana.
+              Scythe Mio (born Aidan Heichelbech), is a 20 year old artist known for making a variety of styles of hip-hop, including hard-hitting, massive production, emotional vocals, tied in with dark, moody, yet vibrant tones in his music. 
               <br/><br/>
-              Scythe Mio has built a growing online presence through streaming platforms, releasing tracks such as “CHRISTIAN DIOR,” “out of my mind,” and “I DON’T LOSE.” Their moody, melodic style appeals to fans of underground internet rap and experimental trap music.
+              Aidan is from the Greater Cincinnati area, where he started making music in 2020. Since then, he has gone on to improve upon and invent his own sound that is still unique and inspires others to this day. 
 
             </span>
 

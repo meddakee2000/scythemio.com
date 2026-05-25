@@ -3,6 +3,7 @@
 import data from '@/metadata.json';
 import openToURL from '@/logic/openToURL';
 import styles from '../styles/Footer.module.css';
+import platformHandoff from '@/logic/platformHandoff';
 
 const Footer = () => {
   return (
@@ -14,8 +15,8 @@ const Footer = () => {
           made @ <span>meddaugh.xyz</span> • {data.version}
         </span>
 
-        <span style = {{paddingRight: 20, textAlign: 'right'}} onClick = {() => {openToURL('https://open.spotify.com/album/21t5U0BfTUpmrTc0ey3WjV')}}>
-          𝅘𝅥𝅮𝅘𝅥𝅮 - Stream "DREAMING" on Spotify
+        <span style = {{paddingRight: 20, textAlign: 'right'}} onClick = {() => platformHandoff('dreaming')}>
+          𝅘𝅥𝅮𝅘𝅥𝅮 - Stream "DREAMING" on all platforms.
         </span>
 
       </div>

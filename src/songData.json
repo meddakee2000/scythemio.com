@@ -1,97 +1,104 @@
 {
-
   "songs": [
     {
-
       "5am": {
-        "name": "It's 5am and I can't sleep",
+        "name": "it's 5 am and i can't sleep",
         "date": "June 27th, 2025",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "spotifyURL": "https://open.spotify.com/track/1akQGljVia5wM3q3AjeWaZ?si=0988a7466c7043d4",
+        "applemusicURL": "https://music.apple.com/us/song/its-5-am-and-i-cant-sleep/1821603528",
+        "soundcloudURL": "",
+        "youtubeURL": "https://youtu.be/35VdQmCZzN4?si=-HH7pyx0jAzHXGbj"
       },
 
       "babygottaask": {
         "name": "BABY GOTTA ASK",
         "date": "March 13th, 2026",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "spotifyURL": "https://open.spotify.com/track/70GIbddc1EZrDvAFenYdsO?si=dcb160a7e1f441e3",
+        "applemusicURL": "https://music.apple.com/us/song/baby-gotta-ask/1884033982",
+        "soundcloudURL": "https://soundcloud.com/scythe-mio/baby-gotta-ask-p-sogimura",
+        "youtubeURL": "https://youtu.be/omExNkMJU4Q?si=w0TM64lah__mjtTO"
       },
 
       "coma": {
         "name": "coma",
         "date": "August 15th, 2025",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "spotifyURL": "https://open.spotify.com/track/4xt54BxK569byg7UHU0nup?si=3e41b761687d45a2",
+        "applemusicURL": "https://music.apple.com/us/song/coma/1832590471",
+        "soundcloudURL": "https://soundcloud.com/scythe-mio/coma",
+        "youtubeURL": "https://youtu.be/q8zWJaCRNzw?si=5k3beUzLY3_DqBHO"
       },
 
       "distractions": {
         "name": "distractions",
-        "date": "March 28th, 2025",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "date": "March 18th, 2025",
+        "spotifyURL": "https://open.spotify.com/album/1pA2f65R5z51BBuZJMj73q?si=ynBAIs1tSt6Dl3j8uqaDsg",
+        "applemusicURL": "https://music.apple.com/us/album/distractions-single/1804221293",
+        "soundcloudURL": "",
+        "youtubeURL": "https://youtu.be/i9CvT-CRxGI?si=fufTyHL7YES22d2L"
       },
 
       "dreaming": {
         "name": "DREAMING",
         "date": "Janurary 11th, 2026",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "spotifyURL": "https://open.spotify.com/album/21t5U0BfTUpmrTc0ey3WjV?si=ahvEkvNhTs-SRQy48jEhsQ",
+        "applemusicURL": "https://music.apple.com/us/album/dreaming-single/1867096509",
+        "soundcloudURL": "https://soundcloud.com/scythe-mio/dreaming",
+        "youtubeURL": "https://youtu.be/SwLPtDUvdr8?si=3x7b5n3VMluqaPTu"
       },
 
       "iwishiknew": {
         "name": "i wish i knew",
         "date": "April 10th, 2026",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "spotifyURL": "https://open.spotify.com/album/51rA5KUFrzNZvUxar1BGcv?si=PJwoAIG0TeWxhgbw9hvorg",
+        "applemusicURL": "https://music.apple.com/us/album/i-cant-find-peace-single/1889422680",
+        "soundcloudURL": "https://soundcloud.com/scythe-mio/i-cant-find-peace",
+        "youtubeURL": "https://youtu.be/9uw0zPQRzGI?si=t1jwQZatCcoegmvE"
       },
 
       "loud": {
         "name": "icantstopsmokingloud",
         "date": "April 24th, 2026",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "spotifyURL": "https://open.spotify.com/album/30NixhV5bDB04N78WuV17H?si=UjGdhcjFR6KY51fZeNJWPA",
+        "applemusicURL": "https://music.apple.com/us/album/icantstopsmokingloud-single/1895145648",
+        "soundcloudURL": "https://soundcloud.com/scythe-mio/icantstopsmokingloud",
+        "youtubeURL": "https://youtu.be/WTTlost-94I?si=GhiD-E3Jqhwu2tvf"
       },
 
       "outofmymind": {
         "name": "out of my mind",
-        "date": "September 26th, 2026",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "date": "September 26th, 2025",
+        "spotifyURL": "https://open.spotify.com/album/4nb8BGx6iQpcYtoJoWgpzV?si=06ZNNONrTWqsFWTaod6AxA",
+        "applemusicURL": "https://music.apple.com/us/album/out-of-my-mind-feat-7even-single/1841729389",
+        "soundcloudURL": "",
+        "youtubeURL": "https://youtu.be/dX0P1Fwv6UM?si=R0Km9jFlXMnjarrP"
       },
 
       "rise": {
         "name": "RISE",
         "date": "Janurary 24th, 2025",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "spotifyURL": "https://open.spotify.com/album/5AV9tiSNKrATZngOvTDcTf?si=y30Xe_vYSIykQbMeYQrHCA",
+        "applemusicURL": "https://music.apple.com/us/album/rise-feat-cthrurio-single/1791656698",
+        "soundcloudURL": "https://soundcloud.com/scythe-mio/scythe-mio-rise-feat-cthrurio",
+        "youtubeURL": "https://youtu.be/-Z44o5gr7Uc?si=ZVMTZpQL2RukdhGH"
       },
 
       "throwaways": {
         "name": "THROWAWAYS",
-        "date": "Janurary 24th, 2025",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "date": "May 15th, 2026",
+        "spotifyURL": "https://open.spotify.com/album/6RSTJH9UhkzFm1lWR2REwZ?si=Qiu_HCWrRBaS-tDK-znBwQ",
+        "applemusicURL": "https://music.apple.com/us/album/throwaways-ep/6769660100",
+        "soundcloudURL": "https://soundcloud.com/scythe-mio/pain-pills-xo-tour-llife-flip",
+        "youtubeURL": "https://youtu.be/c7RBU6Alxmw?si=x8iOmZZgTiPYbs4V"
       },
 
       "whatyouneed": {
         "name": "WHAT YOU NEED",
         "date": "November 19th, 2025",
-        "spotifyURL": "",
-        "applemusicURL": "",
-        "soundcloudURL": ""
+        "spotifyURL": "https://open.spotify.com/album/5EclAIl6rCTXrjV9gBzmO7?si=xB_D0WDLSZi57YeNZSUSXQ",
+        "applemusicURL": "https://music.apple.com/us/album/what-you-need-single/1854167429",
+        "soundcloudURL": "https://soundcloud.com/scythe-mio/scythe-mio-what-you-need-feat",
+        "youtubeURL": "https://youtu.be/dGC0vs3e-PI?si=0O2b9VupADwa67wN"
       }
-
     }
   ]
-
 }

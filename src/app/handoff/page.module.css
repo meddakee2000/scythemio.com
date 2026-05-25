@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.album {
+  width: 350;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.iconContainer {
+  gap: 40;
+  display: flex;
+  margin-top: 20;
+}
+
+.icon {
+  width: 40;
+  opacity: .65;
+  transition: all ease-in-out 0.1s;
+}
+
+.icon:hover {
+  opacity: 1;
+  cursor: pointer;
+  transition: all ease-in-out 0.1s;
+}
