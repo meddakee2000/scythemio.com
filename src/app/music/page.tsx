@@ -12,11 +12,11 @@ const Page = () => {
     
       <div className = {styles.container}>
 
-        <Album name = 'dreaming' width = {150}/>
+        <Album name = 'throwaways' width = {150}/>
 
         <div className = {styles.text}>
           <span style = {{fontSize: 40, fontWeight: 'bold'}}>
-            NEW RELEASE: "DREAMING"
+            NEW RELEASE: "THROWAWAYS"
           </span>
           <span style = {{fontSize: 20}}>
             Release Date: Janurary 11th, 2026
@@ -34,7 +34,7 @@ const Page = () => {
       
       <div style = {{display: 'flex', justifyContent: 'space-between', gap: 20}}>
 
-        <Album name = 'throwaways' width = {150}/>
+        <Album name = 'dreaming' width = {150}/>
         <Album name = 'loud' width = {150}/>
         <Album name = 'iwishiknew' width = {150}/>
         <Album name = 'babygottaask' width = {150}/>
