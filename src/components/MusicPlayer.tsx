@@ -29,7 +29,7 @@ export default function MusicPlayer({ src }: MusicPlayerProps) {
     <img
       className = {styles.toggle}
       onClick = {() => audioController.toggle()}
-      src = {isPlaying ? '/icons/paused.svg' : '/icons/playing.svg'}
+      src = {isPlaying ? '/icons/playing.svg' : '/icons/paused.svg'}
     />
 
   );
