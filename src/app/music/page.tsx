@@ -12,14 +12,14 @@ const Page = () => {
     
       <div className = {styles.container}>
 
-        <Album name = 'throwaways' width = {150}/>
+        <Album name = 'painpills' width = {150}/>
 
         <div className = {styles.text}>
-          <span style = {{fontSize: 40, fontWeight: 'bold'}}>
-            NEW RELEASE: "THROWAWAYS"
+          <span style = {{fontSize: 35, fontWeight: 'bold'}}>
+            NEW RELEASE: "PAIN PILLS"
           </span>
           <span style = {{fontSize: 20}}>
-            Release Date: Janurary 11th, 2026
+            Release Date: May 26th, 2026
           </span>
           <span style = {{opacity: '50%', paddingTop: 5}}>
             Streaming on all platforms.
@@ -45,7 +45,7 @@ const Page = () => {
       <div style = {{display: 'flex', justifyContent: 'space-between', paddingTop: 20, gap: 20}}>
 
         <Album name = 'outofmymind' width = {150}/>
-        <Album name = 'coma' width = {150}/>
+        <Album name = 'throwaways' width = {150}/>
         <Album name = '5am' width = {150}/>
         <Album name = 'distractions' width = {150}/>
         <Album name = 'rise' width = {150}/>

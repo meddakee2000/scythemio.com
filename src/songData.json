@@ -98,7 +98,17 @@
         "applemusicURL": "https://music.apple.com/us/album/what-you-need-single/1854167429",
         "soundcloudURL": "https://soundcloud.com/scythe-mio/scythe-mio-what-you-need-feat",
         "youtubeURL": "https://youtu.be/dGC0vs3e-PI?si=0O2b9VupADwa67wN"
+      },
+
+      "painpills": {
+        "name": "PAIN PILLS (XO Tour Llife Flip)",
+        "date": "May 26th, 2026",
+        "spotifyURL": "https://open.spotify.com/album/7sDQWEhqiHeEvvBl8z5J50?si=Vf0V72hoQ_qGU34hy6pmRQ",
+        "applemusicURL": "https://music.apple.com/us/album/pain-pills-xo-tour-llife-flip-single/6772998003",
+        "soundcloudURL": "https://soundcloud.com/scythe-mio/pain-pills-xo-tour-llife-flip",
+        "youtubeURL": "https://youtu.be/pHgCjwsPZM4?si=JYHqif65rTeQbPhw"
       }
+
     }
   ]
 }
