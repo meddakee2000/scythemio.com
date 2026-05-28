@@ -34,21 +34,21 @@ const Page = () => {
       
       <div style = {{display: 'flex', justifyContent: 'space-between', gap: 20}}>
 
-        <Album name = 'dreaming' width = {150}/>
+        <Album name = 'throwaways' width = {150}/>
         <Album name = 'loud' width = {150}/>
         <Album name = 'iwishiknew' width = {150}/>
         <Album name = 'babygottaask' width = {150}/>
-        <Album name = 'whatyouneed' width = {150}/>
+        <Album name = 'dreaming' width = {150}/>
 
       </div>
       
       <div style = {{display: 'flex', justifyContent: 'space-between', paddingTop: 20, gap: 20}}>
 
+        <Album name = 'whatyouneed' width = {150}/>
         <Album name = 'outofmymind' width = {150}/>
-        <Album name = 'throwaways' width = {150}/>
+        <Album name = 'coma' width = {150}/>
         <Album name = '5am' width = {150}/>
         <Album name = 'distractions' width = {150}/>
-        <Album name = 'rise' width = {150}/>
 
       </div>
     
