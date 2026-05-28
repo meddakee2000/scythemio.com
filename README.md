@@ -1,6 +1,6 @@
 # Scythe Mio's Website 🌐
 
-> **Version**: 1.2b-5/27/26 \
+> **Version**: 1.2c-5/27/26 \
 > **Stack**: Next.js 16.12.6 w/ React \
 > **Website**: https://scythemio.com
 
